@@ -6,3 +6,4 @@ packaging==24.2
 scikit-learn==1.6.1
 scipy==1.15.2
 threadpoolctl==3.5.0
+werkzeug==2.2.2
